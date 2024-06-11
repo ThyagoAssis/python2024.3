@@ -1,0 +1,7 @@
+Correção do erro pip
+
+Executar no Terminal
+    python -m venv .venv
+    ./.venv/Scripts/activate
+
+    pip install requests
