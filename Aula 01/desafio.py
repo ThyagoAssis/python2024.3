@@ -6,7 +6,16 @@
 '''
 
 #A função input recebe uma informação que vem de fora
+nome = "Thyago"
 cor_camisa = input("Qual a cor da sua camisa? ")
 
 #Saida da informação
-print("A cor da camisa é: ", cor_camisa);
+#Primeira forma de exibir
+print("Primeria - A cor da camisa é: ", cor_camisa, nome)
+
+#Segunda forma de exibir
+print(f"Segunda - A cor da camisa é {cor_camisa} {nome}")
+
+#Terceira Forma
+print("Terceira - A cor da camisa é: {} {}".format(cor_camisa,nome ))
+
