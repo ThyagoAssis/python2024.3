@@ -1,2 +1,5 @@
-.idea
-.venv
+.idea/
+.venv/
+Aula 08/.idea/
+Aula 08/projetos/projeto_um/.idea
+Aula 08/projetos/projeto_um/.venv
