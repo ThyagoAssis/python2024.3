@@ -1,0 +1,7 @@
+Cria uma nova pasta pode ser do desktop ou em documentos
+
+1 - Criar um novo ambiente virtual
+2 - Instalar o django
+3 - Criar um projeto django chamdo setup
+4 - Criar um app chamado lista
+5 - Colocar o projeto no ar
