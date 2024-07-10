@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'fotografia.apps.FotografiaConfig'
+    'lista.apps.ListaConfig'
 ]
 ```
 ### Passo 03: 
