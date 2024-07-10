@@ -82,6 +82,6 @@ Um Template no Django é um arquivo que define a estrutura e o layout de uma pá
 
 ```bash
 def home(request):
-    return render(request, "fotografia/home.html")
+    return render(request, "lista/home.html")
 
 ```
